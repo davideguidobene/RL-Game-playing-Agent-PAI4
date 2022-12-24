@@ -4,7 +4,7 @@ Project 4 for the course of Probabilistic Artificial Intelligence. Implemented a
 # HOW TO EXECUTE
 1. Download Docker
 2. To run from Linux
-  $ bash runner.sh
+ $ bash runner.sh
 
 # SHORT REPORT
 The multilayer perceptron architecture is just a sequential neural network implemented in the function mlp (which takes as input the size of each layers, as well as the activation function for the hidden layers and the output function for the last layer).
